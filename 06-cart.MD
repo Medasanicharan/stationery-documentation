@@ -48,7 +48,7 @@ mkdir /app
 Download the application code to created app directory. 
 
 ```shell
-curl -L -o /tmp/cart.zip https://s3.amazonaws.com/devsecops.cloudnai/cart-v3.zip
+curl -L -o /tmp/cart.zip https://stationary-app.s3.amazonaws.com/cart.zip
 cd /app 
 unzip /tmp/cart.zip
 ```

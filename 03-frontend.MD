@@ -36,7 +36,7 @@ rm -rf /usr/share/nginx/html/*
 Download the frontend content
 
 ```shell
-curl -o /tmp/frontend.zip https://s3.amazonaws.com/devsecops.cloudnai/frontend-v3.zip
+curl -o /tmp/frontend.zip https://stationary-app.s3.amazonaws.com/frontend-v3.zip
 ```
 
 Extract the frontend content.
