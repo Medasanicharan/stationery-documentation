@@ -41,7 +41,7 @@ mkdir /app
 Download the application code to created app directory.
 
 ```shell
-curl -L -o /tmp/shipping.zip https://stationary-app.s3.amazonaws.com/shipping.zip 
+curl -L -o /tmp/shipping.zip https://stationary-app.s3.us-east-1.amazonaws.com/shipping-v1.zip
 cd /app 
 unzip /tmp/shipping.zip
 ```
